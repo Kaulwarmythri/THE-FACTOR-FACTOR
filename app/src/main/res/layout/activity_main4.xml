@@ -25,7 +25,7 @@
         android:id="@+id/wrong"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/correct_answer"
+        android:text="Wrong answer"
         android:textColor="#ffffff"
         android:textStyle="bold"
         android:textSize="30sp"
