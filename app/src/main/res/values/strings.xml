@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">THE FACTOR FACTOR</string>
+    <string name="enter_a_number">Enter a number</string>
+    <string name="submit">SUBMIT</string>
+    <string name="choose_the_correct_factor_for_the_number">Choose the correct factor for the number</string>
+    <string name="option1">OPTION1</string>
+    <string name="option2">OPTION2</string>
+    <string name="option3">OPTION3</string>
+    <string name="score_0">Score : 0</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="next">NEXT</string>
+</resources>
